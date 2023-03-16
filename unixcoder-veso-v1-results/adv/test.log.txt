@@ -1,0 +1,8 @@
+03/15/2023 18:44:15 - INFO - __main__ -   device: cuda, n_gpu: 2
+03/15/2023 18:44:16 - INFO - __main__ -   Training/evaluation parameters Namespace(train_data_file=None, output_dir='saved_models/unixcoder-ft-big-obf-ds-mrr63', eval_data_file=None, test_data_file='../../../../dataset/AdvTest/test.jsonl', codebase_file='../../../../dataset/AdvTest/test.jsonl', model_name_or_path='unixcoder-veso-v1', config_name='', tokenizer_name='', nl_length=128, code_length=1024, do_train=False, do_eval=False, do_test=True, do_zero_shot=True, do_F2_norm=False, train_batch_size=4, eval_batch_size=4, learning_rate=5e-05, max_grad_norm=1.0, num_train_epochs=1, seed=42, n_gpu=2, device=device(type='cuda'))
+03/15/2023 18:45:06 - INFO - __main__ -   ***** Running evaluation *****
+03/15/2023 18:45:06 - INFO - __main__ -     Num queries = 19210
+03/15/2023 18:45:06 - INFO - __main__ -     Num codes = 19210
+03/15/2023 18:45:06 - INFO - __main__ -     Batch size = 4
+03/15/2023 18:58:55 - INFO - __main__ -   ***** Eval results *****
+03/15/2023 18:58:55 - INFO - __main__ -     eval_mrr = 0.58
