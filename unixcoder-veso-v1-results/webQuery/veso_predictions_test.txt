@@ -7,7 +7,7 @@ webquery-test-6	1
 webquery-test-7	1
 webquery-test-8	1
 webquery-test-9	1
-webquery-test-10	1
+webquery-test-10	0
 webquery-test-11	1
 webquery-test-12	1
 webquery-test-13	1
@@ -22,13 +22,13 @@ webquery-test-21	1
 webquery-test-22	1
 webquery-test-23	1
 webquery-test-24	1
-webquery-test-25	0
-webquery-test-26	0
+webquery-test-25	1
+webquery-test-26	1
 webquery-test-27	1
 webquery-test-28	1
 webquery-test-29	1
 webquery-test-30	1
-webquery-test-31	0
+webquery-test-31	1
 webquery-test-32	1
 webquery-test-33	1
 webquery-test-34	1
@@ -58,7 +58,7 @@ webquery-test-57	1
 webquery-test-58	1
 webquery-test-59	1
 webquery-test-60	1
-webquery-test-61	1
+webquery-test-61	0
 webquery-test-62	0
 webquery-test-63	1
 webquery-test-64	1
@@ -81,7 +81,7 @@ webquery-test-80	1
 webquery-test-81	1
 webquery-test-82	1
 webquery-test-83	1
-webquery-test-84	0
+webquery-test-84	1
 webquery-test-85	1
 webquery-test-86	1
 webquery-test-87	1
@@ -103,7 +103,7 @@ webquery-test-102	1
 webquery-test-103	1
 webquery-test-104	1
 webquery-test-105	1
-webquery-test-106	1
+webquery-test-106	0
 webquery-test-107	1
 webquery-test-108	1
 webquery-test-109	1
@@ -152,7 +152,7 @@ webquery-test-151	1
 webquery-test-152	1
 webquery-test-153	1
 webquery-test-154	1
-webquery-test-155	1
+webquery-test-155	0
 webquery-test-156	1
 webquery-test-157	1
 webquery-test-158	1
@@ -201,7 +201,7 @@ webquery-test-200	1
 webquery-test-201	1
 webquery-test-202	1
 webquery-test-203	1
-webquery-test-204	1
+webquery-test-204	0
 webquery-test-205	1
 webquery-test-206	1
 webquery-test-207	1
@@ -216,7 +216,7 @@ webquery-test-215	0
 webquery-test-216	0
 webquery-test-217	0
 webquery-test-218	1
-webquery-test-219	1
+webquery-test-219	0
 webquery-test-220	1
 webquery-test-221	1
 webquery-test-222	1
@@ -264,7 +264,7 @@ webquery-test-263	1
 webquery-test-264	1
 webquery-test-265	1
 webquery-test-266	1
-webquery-test-267	1
+webquery-test-267	0
 webquery-test-268	1
 webquery-test-269	1
 webquery-test-270	1
@@ -286,7 +286,7 @@ webquery-test-285	1
 webquery-test-286	1
 webquery-test-287	1
 webquery-test-288	1
-webquery-test-289	0
+webquery-test-289	1
 webquery-test-290	0
 webquery-test-291	1
 webquery-test-292	1
@@ -389,7 +389,7 @@ webquery-test-388	1
 webquery-test-389	1
 webquery-test-390	1
 webquery-test-391	1
-webquery-test-392	1
+webquery-test-392	0
 webquery-test-393	1
 webquery-test-394	1
 webquery-test-395	1
@@ -399,7 +399,7 @@ webquery-test-398	1
 webquery-test-399	1
 webquery-test-400	1
 webquery-test-401	1
-webquery-test-402	1
+webquery-test-402	0
 webquery-test-403	1
 webquery-test-404	1
 webquery-test-405	1
@@ -419,7 +419,7 @@ webquery-test-418	1
 webquery-test-419	1
 webquery-test-420	1
 webquery-test-421	1
-webquery-test-422	0
+webquery-test-422	1
 webquery-test-423	1
 webquery-test-424	1
 webquery-test-425	1
@@ -492,8 +492,8 @@ webquery-test-491	1
 webquery-test-492	1
 webquery-test-493	1
 webquery-test-494	1
-webquery-test-495	0
-webquery-test-496	0
+webquery-test-495	1
+webquery-test-496	1
 webquery-test-497	1
 webquery-test-498	1
 webquery-test-499	1
@@ -508,8 +508,8 @@ webquery-test-507	1
 webquery-test-508	1
 webquery-test-509	1
 webquery-test-510	1
-webquery-test-511	0
-webquery-test-512	0
+webquery-test-511	1
+webquery-test-512	1
 webquery-test-513	1
 webquery-test-514	1
 webquery-test-515	1
@@ -518,8 +518,8 @@ webquery-test-517	1
 webquery-test-518	1
 webquery-test-519	1
 webquery-test-520	1
-webquery-test-521	1
-webquery-test-522	1
+webquery-test-521	0
+webquery-test-522	0
 webquery-test-523	1
 webquery-test-524	1
 webquery-test-525	1
@@ -579,7 +579,7 @@ webquery-test-578	1
 webquery-test-579	1
 webquery-test-580	1
 webquery-test-581	0
-webquery-test-582	0
+webquery-test-582	1
 webquery-test-583	1
 webquery-test-584	1
 webquery-test-585	1
@@ -592,8 +592,8 @@ webquery-test-591	1
 webquery-test-592	1
 webquery-test-593	1
 webquery-test-594	1
-webquery-test-595	1
-webquery-test-596	1
+webquery-test-595	0
+webquery-test-596	0
 webquery-test-597	1
 webquery-test-598	1
 webquery-test-599	1
@@ -655,7 +655,7 @@ webquery-test-654	1
 webquery-test-655	1
 webquery-test-656	1
 webquery-test-657	1
-webquery-test-658	0
+webquery-test-658	1
 webquery-test-659	1
 webquery-test-660	1
 webquery-test-661	1
@@ -671,7 +671,7 @@ webquery-test-670	1
 webquery-test-671	1
 webquery-test-672	1
 webquery-test-673	1
-webquery-test-674	0
+webquery-test-674	1
 webquery-test-675	1
 webquery-test-676	1
 webquery-test-677	1
@@ -717,7 +717,7 @@ webquery-test-716	1
 webquery-test-717	1
 webquery-test-718	1
 webquery-test-719	1
-webquery-test-720	0
+webquery-test-720	1
 webquery-test-721	1
 webquery-test-722	1
 webquery-test-723	1
@@ -790,7 +790,7 @@ webquery-test-789	1
 webquery-test-790	1
 webquery-test-791	1
 webquery-test-792	1
-webquery-test-793	1
+webquery-test-793	0
 webquery-test-794	1
 webquery-test-795	1
 webquery-test-796	1
@@ -812,16 +812,16 @@ webquery-test-811	1
 webquery-test-812	1
 webquery-test-813	1
 webquery-test-814	1
-webquery-test-815	1
+webquery-test-815	0
 webquery-test-816	1
 webquery-test-817	1
 webquery-test-818	1
-webquery-test-819	0
-webquery-test-820	0
+webquery-test-819	1
+webquery-test-820	1
 webquery-test-821	1
 webquery-test-822	1
-webquery-test-823	1
-webquery-test-824	1
+webquery-test-823	0
+webquery-test-824	0
 webquery-test-825	1
 webquery-test-826	1
 webquery-test-827	1
@@ -829,7 +829,7 @@ webquery-test-828	1
 webquery-test-829	1
 webquery-test-830	1
 webquery-test-831	1
-webquery-test-832	1
+webquery-test-832	0
 webquery-test-833	1
 webquery-test-834	1
 webquery-test-835	1
@@ -901,7 +901,7 @@ webquery-test-900	1
 webquery-test-901	1
 webquery-test-902	1
 webquery-test-903	1
-webquery-test-904	0
+webquery-test-904	1
 webquery-test-905	1
 webquery-test-906	1
 webquery-test-907	1
@@ -951,7 +951,7 @@ webquery-test-950	1
 webquery-test-951	1
 webquery-test-952	1
 webquery-test-953	1
-webquery-test-954	1
+webquery-test-954	0
 webquery-test-955	1
 webquery-test-956	1
 webquery-test-957	1
@@ -966,7 +966,7 @@ webquery-test-965	1
 webquery-test-966	1
 webquery-test-967	1
 webquery-test-968	1
-webquery-test-969	0
+webquery-test-969	1
 webquery-test-970	1
 webquery-test-971	1
 webquery-test-972	1
@@ -979,7 +979,7 @@ webquery-test-978	1
 webquery-test-979	1
 webquery-test-980	1
 webquery-test-981	1
-webquery-test-982	0
+webquery-test-982	1
 webquery-test-983	1
 webquery-test-984	1
 webquery-test-985	1
@@ -1004,8 +1004,8 @@ webquery-test-1003	1
 webquery-test-1004	1
 webquery-test-1005	1
 webquery-test-1006	1
-webquery-test-1007	1
-webquery-test-1008	1
+webquery-test-1007	0
+webquery-test-1008	0
 webquery-test-1009	1
 webquery-test-1010	1
 webquery-test-1011	1
